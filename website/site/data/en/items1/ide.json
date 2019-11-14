@@ -1,0 +1,26 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Run 3 DML operations.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Run 3 Anonymous Apex operations.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Look at Debug Log.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Push changes to a class to github.",
+    "tags": ["all"]
+  }
+]

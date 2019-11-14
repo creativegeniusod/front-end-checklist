@@ -1,0 +1,32 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "What is this error? \"Unable to lock row\".",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Can you delete a user?",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "What is the average salary of a salesforce developer in Austin?.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "What is the most popular Salesforce blog?",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Where can you find the abridged version of Winter 2020 release notes?",
+    "tags": ["all"]
+  }
+]

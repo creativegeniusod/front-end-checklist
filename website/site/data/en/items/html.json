@@ -1,0 +1,33 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Add 3 integers.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Add 3 strings.",
+    "detail": "Add 3 strings.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Medium",
+    "description": "What are 3 ways of creating a list? Create a list in each way.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Low",
+    "description": "Set.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Map.",
+    "tags": ["all"]
+  }
+]

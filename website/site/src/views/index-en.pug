@@ -1,0 +1,79 @@
+extends base/layout
+
+//- Block main
+block main
+
+  include components/s-section-top
+
+  //- List each section (the order is linked to the order of the c-nav)
+  //- _items is in the JSON injected in the view with gulp-data (called _project.json)
+  .s-main__section.s-main__checklist
+
+    if _items !== undefined
+
+      +checklist-section({
+        dataSection: _items.head,
+        sectionTitle: "DataTypes"
+      })
+
+      +checklist-section({
+        dataSection: _items.html,
+        sectionTitle: "Collections"
+      })
+
+      +checklist-section({
+        dataSection: _items.webfonts,
+        sectionTitle: "Iterations"
+      })
+
+      +checklist-section({
+        dataSection: _items.css,
+        sectionTitle: "DML"
+      })
+
+      +checklist-section({
+        dataSection: _items.javascript,
+        sectionTitle: "SOQL"
+      })
+
+      +checklist-section({
+        dataSection: _items.images,
+        sectionTitle: "Triggers"
+      })
+
+      +checklist-section({
+        dataSection: _items.accessibility,
+        sectionTitle: "Class"
+      })
+
+      +checklist-section({
+        dataSection: _items.performance,
+        sectionTitle: "TestClass"
+      })
+
+      +checklist-section({
+        dataSection: _items.seo,
+        sectionTitle: "DebugLog"
+      })
+
+      +checklist-section({
+        dataSection: _items.governor,
+        sectionTitle: "GovernorLimits"
+      })
+
+      +checklist-section({
+        dataSection: _items.github,
+        sectionTitle: "Github"
+      })
+
+      +checklist-section({
+        dataSection: _items.ide,
+        sectionTitle: "IDE"
+      })
+
+      +checklist-section({
+        dataSection: _items.googling,
+        sectionTitle: "Googling"
+      })
+
+  include components/s-section-bottom

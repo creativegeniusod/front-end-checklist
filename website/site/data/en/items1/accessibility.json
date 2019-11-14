@@ -1,0 +1,32 @@
+[
+  {
+    "title": "",
+    "priority": "Medium",
+    "description": "Write a class that accepts a string, creates an Account, returns nothing.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Medium",
+    "description": "Write a class that accepts a string, creates an Account, returns ID of the account.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Write a class that does not accept a string, creates an Account, returns nothing.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Write a class that does not accept a string, creates an Account in a try catch, returns nothing.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Medium",
+    "description": "Write a static method. How do you call it?",
+    "tags": ["all"]
+  }
+]

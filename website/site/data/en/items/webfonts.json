@@ -1,0 +1,14 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Iterate over a list on previous slide & print out each value in System.Debug.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Low",
+    "description": "Iterate over a list on previous slide & add to a new List.",
+      "tags": ["all"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Create 5 Strings variables.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Create 5 Dates variables.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Create 5 Integers variables.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Create 5 Boolean variables.",
+    "tags": ["all"]
+  }
+]

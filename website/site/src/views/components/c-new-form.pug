@@ -1,0 +1,18 @@
+.s-form
+  .form
+
+      .form-group
+        input(type="text", id="today-date" name="today-date", title=translation.form.TITLE_PAGE_TITLE required)
+        label(for="page-title")= translation.form.LABEL_PAGE_TITLE
+
+      .form-group
+        input(type="text", id="developer-name" name="developer-name", title=translation.form.TITLE_DEVELOPER_NAME required)
+        label(for="developer-name")= translation.form.LABEL_DEVELOPER_NAME
+
+      span#generated-date
+
+.s-meta
+
+  button.button.btn--danger.js-reset-all
+    +svg-icon.icon.icon-reset(data-icon-name='reset')
+    | #[=translation.form.BUTTON_START_NEW]

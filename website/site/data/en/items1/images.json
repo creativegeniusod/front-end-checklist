@@ -1,0 +1,20 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Create a trigger that.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Medium",
+    "description": "populates Description of every new Account record to be \"Yes I can\".",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Low",
+    "description": "runs on Contact updates >>> creates a task for Contact owner with subject \"call the contact asap\".",
+    "tags": ["all"]
+  }
+]

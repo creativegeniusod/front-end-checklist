@@ -1,0 +1,20 @@
+[
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Insert 1 account record & analyze the debug log. What do you see?",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "Medium",
+    "description": "Create a validation rule on account object.",
+    "tags": ["all"]
+  },
+  {
+    "title": "",
+    "priority": "High",
+    "description": "Insert 1 account & analyze the debug log.",
+    "tags": ["all"]
+  }
+]
